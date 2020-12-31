@@ -1,0 +1,11 @@
+{
+  "name": "django_docker_boilerplate",
+  "version": "1.0.0",
+  "description": "A Simple Docker Postgres Setup for a Django Web App",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thangpham7793/django_docker_boilerplate"
+  },
+  "author": "Thang Pham",
+  "license": "MIT"
+}
